@@ -24,7 +24,7 @@
 							<section class="panel spotlight large left">
 								<div class="content span-5">
 									<h2 class="major">About me</h2>
-									<p>Mauris a cursus velit. Nunc lacinia sollicitudin egestas bibendum, magna dui bibendum ex, sagittis commodo enim risus sed magna nulla. Vestibulum ut consequat velit. Curabitur vitae libero lorem. Quisque iaculis porttitor blandit. Nullam quis sagittis maximus. Sed vel nibh libero. Mauris et lorem pharetra massa lorem turpis congue pulvinar.</p>
+									<p>I was born in Kiev, Ukraine, and moved to San Francisco at the age of 1. I lived in the city until moving to the South Bay where I completed High School. Due to my interest in music, I was always interested in Signals so I chose to study Electrical Engineering. I completed my Bachelors at the Illinois Institute of Technology, and my Masters at Marquette University. My research interests include Machine Learning, Signal Processing, Robotics and Power.</p>
 								</div>
 								<div class="image filtered tinted" data-position="top right">
 									<img src="images/photo.png" alt="" />
@@ -43,11 +43,12 @@
 										<li><a href="#first" class="button primary color1 circle icon fa-angle-right">Next</a></li>
 									</ul>
 								</div>
+						<!--
 								<div class="image filtered span-1-75" data-position="25% 25%">
 									<img src="images/pic01.jpg" alt="" />
 								</div>
 							</section>
-
+						--->
 						<!-- Panel -->
 							<section class="panel color4-alt">
 								<div class="intro color4">
