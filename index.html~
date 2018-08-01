@@ -21,8 +21,8 @@
 					<div id="wrapper">
 
 						<!-- Panel (Spotlight) -->
-							<section class="panel spotlight medium left">
-								<div class="content span-5">
+							<section class="panel spotlight small left">
+								<div class="content span-8">
 									<h2 class="major">About Me</h2>
 									<p>I was born in Kiev, Ukraine, and moved to San Francisco at the age of 1. I lived in the city until moving to the South Bay where I completed High School. Due to my interest in music, I was always interested in signals so I chose to study Electrical Engineering. I completed my Bachelors at the Illinois Institute of Technology, and my Masters at Marquette University. My research interests include Machine Learning, Signal Processing, Robotics and Power.</p>
 								</div>
